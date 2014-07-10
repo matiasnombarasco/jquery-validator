@@ -1,0 +1,8 @@
+{
+  "name": "jquery-validator",
+  "description": "Fork of the jqueryvalidator.org without AMD",
+  "main": "jquery-validator.js",
+  "version": "0.0.1",
+  "dependencies": {}
+}
+
